@@ -5,10 +5,6 @@ import "./Side.css";
 const Side = () => {
   return (
     <>
-      <nav className="landing-section">
-        <LandingIcon />
-        Oasis
-      </nav>
       <div className="left-div">
         <img src={homepage} className="img-homepage"></img>
         <div className="quote quote-para">
