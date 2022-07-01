@@ -1,0 +1,8 @@
+.footer-para {
+  color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  width: 90%;
+}

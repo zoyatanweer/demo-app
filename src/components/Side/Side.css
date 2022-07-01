@@ -1,0 +1,42 @@
+.landing-section {
+  color: black;
+  font-weight: 600;
+
+  top: 5rem;
+}
+
+.img-homepage {
+  height: 100vh;
+  width: 50vw;
+  position: relative;
+}
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  line-height: 2rem;
+  position: absolute;
+  width: 28%;
+  top: 35%;
+  left: 10%;
+}
+.quote-start {
+  font-size: 2rem;
+}
+
+.quote-para {
+  color: white;
+  text-align: left;
+}
+
+.quote-person {
+  display: flex;
+  align-items: center;
+}
+
+.quote-end {
+  display: flex;
+  justify-content: flex-end;
+
+  color: black;
+}
