@@ -20,7 +20,6 @@ const Side = () => {
             Vincent Obi
             <VerifiedIcon />
           </div>
-          <h1 className="quote-end">L</h1>
         </div>
       </div>
     </>
